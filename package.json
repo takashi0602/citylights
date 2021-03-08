@@ -1,0 +1,16 @@
+{
+  "name": "citylights",
+  "version": "0.0.1",
+  "description": "Citylights is CSS framework.",
+  "main": "index.js",
+  "repository": "git@github.com:takashi0602/citylights.git",
+  "author": "takashi (https://twitter.com/takashimelon)",
+  "license": "MIT",
+  "keywords": [
+    "css",
+    "sass",
+    "front-end",
+    "framework",
+    "web"
+  ]
+}
