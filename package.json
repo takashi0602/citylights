@@ -1,6 +1,6 @@
 {
   "name": "citylights",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Citylights is CSS framework.",
   "main": "index.js",
   "repository": "https://github.com/takashi0602/citylights.git",
