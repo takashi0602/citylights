@@ -3,8 +3,8 @@
   "version": "0.0.2",
   "description": "Citylights is CSS framework.",
   "main": "index.js",
-  "repository": "https://github.com/clcss/citylights.git",
-  "author": "takashi (https://twitter.com/takashimelon)",
+  "repository": "https://github.com/takashi0602/citylights.git",
+  "author": "Takashi (https://twitter.com/takashimelon)",
   "license": "MIT",
   "keywords": [
     "css",
